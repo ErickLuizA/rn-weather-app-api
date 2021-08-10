@@ -1,0 +1,30 @@
+{
+  "name": "skykow-api",
+  "version": "1.0.0",
+  "description": "api for the skykow app",
+  "main": "index",
+  "scripts": {
+    "start": "nodemon --experimental-json-modules index.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErickLuizA/skykow-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErickLuizA/skykow-api/issues"
+  },
+  "homepage": "https://github.com/ErickLuizA/skykow-api#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "expo-server-sdk": "^3.6.0",
+    "firebase-admin": "^9.11.0",
+    "node-schedule": "^2.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
