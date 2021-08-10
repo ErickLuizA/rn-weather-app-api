@@ -18,14 +18,12 @@ export async function sendNotification(pushTokens) {
     try {
       const response = await getCurrentWeather(pushToken.lat, pushToken.lon)
 
-      const title = response.name 
-
-      const body = `${kelvinToCelsius(response.main.temp)} °C`
+      const body = `${response.name} - ${kelvinToCelsius(response.main.temp)} °C`
 
       messages.push({
         to: pushToken.token,
         sound: 'default',
-        title,
+        title: 'SkyKow',
         body,
       })
     } catch (error) {
