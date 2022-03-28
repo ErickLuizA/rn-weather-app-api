@@ -1,7 +1,7 @@
-<h1 align="center"> SkyKow-api </h1>
+<h1 align="center"> rn-weather-app-api </h1>
 
 <p align="center">
-  <a href="https://github.com/ErickLuizA/skykow-api/graphs/commit-activity" alt="Maintenance">
+  <a href="https://github.com/ErickLuizA/rn-weather-app-api/graphs/commit-activity" alt="Maintenance">
     <img src="https://img.shields.io/badge/Maintained%3F-yes-1EAE72.svg" />
   </a>
 
@@ -11,12 +11,12 @@
 
 <br/>
 
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ErickLuizA/skykow-api?color=blue">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ErickLuizA/rn-weather-app-api?color=blue">
 
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/ErickLuizA/skykow-api">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/ErickLuizA/rn-weather-app-api">
 
-<a href="https://github.com/ErickLuizA/skykow-api/stargazers">
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/ErickLuizA/skykow-api?style=social">
+<a href="https://github.com/ErickLuizA/rn-weather-app-api/stargazers">
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/ErickLuizA/rn-weather-app-api?style=social">
 </a>
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 ## :clipboard: Description
 
-skykow-api is the api for the [skykow app](https://github.com/ErickLuizA/SkyKow)
+rn-weather-app-api is the api for the [rn-weather-app app](https://github.com/ErickLuizA/rn-weather-app)
 
 ## :building_construction: Technologies
 
@@ -43,14 +43,14 @@ skykow-api is the api for the [skykow app](https://github.com/ErickLuizA/SkyKow)
 ## 1. Download the repository
 
 ```shell
- $ git clone https://github.com/ErickLuizA/skykow-api.git
+ $ git clone https://github.com/ErickLuizA/rn-weather-app-api.git
 ```
 
 ## 2. Installation
 
 ```shell
 # Go into the repository
-$ cd skykow-api
+$ cd rn-weather-app-api
 
 # Install dependencies
 $ npm install
